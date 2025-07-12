@@ -1,12 +1,44 @@
-# React + Vite
+# 🎬 Movie Recommendation Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive movie recommendation website built using **ReactJS**. Users can explore trending movies, search for their favorites, and get personalized movie suggestions.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🔍 Search for movies using keywords
+- 🎞️ Display trending and popular movies
+- 📽️ Detailed movie info including rating, genre, and overview
+- 🌙 Light/Dark Mode (Optional)
+- 📱 Responsive Design for Mobile & Desktop
+- 🎯 Optional: Filter by genres or ratings
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **React JS** (Frontend)
+- **Axios** for API requests
+- **TMDB API** or any other movie database API
+- **React Router DOM** for navigation
+- **CSS / Tailwind / Styled Components** (choose based on your setup)
+
+## 📦 Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/yourusername/movie-recommendation-app.git
+cd movie-recommendation-app
+💡 Future Improvements
+	•	🎯 User authentication
+	•	❤️ Add to favorites / watchlist
+	•	✨ Recommendation engine using ML or user history
+	•	🌐 i18n for multiple languages
+
+📸 Screenshots
+<img width="1197" height="996" alt="Screenshot 2025-07-12 at 11 37 27 AM" src="https://github.com/user-attachments/assets/4e724cff-0cf5-4dbf-8d5f-b87b387188cb" />
+
+🙋‍♂️ Author
+
+Made with ❤️ by Priyanshu Dewangan
+
+---
+
+Let me know if you'd like me to customize it based on your exact features, like if it includes dark mode, favorites, Firebase, or login.
